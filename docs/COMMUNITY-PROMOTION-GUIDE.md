@@ -168,7 +168,7 @@ Run AI summarization entirely on your own hardware — no API keys, no cloud, no
 
 ## Branding Notes
 
-- **Name**: "World Monitor" (two words, capitalized)
+- **Name**: "Heydar Monitor" (two words, capitalized)
 - **Tagline**: "Real-time global intelligence dashboard"
 - **License**: AGPL-3.0 (free and open source)
 - **Creator**: Credit "World Monitor by Elie Habib" or link to the GitHub repo

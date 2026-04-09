@@ -58,7 +58,7 @@ export default function handler(req, res) {
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="${esc(storyUrl)}"/>
-  <meta property="og:site_name" content="World Monitor"/>
+  <meta property="og:site_name" content="Heydar Monitor"/>
 
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:site" content="@WorldMonitorApp"/>
